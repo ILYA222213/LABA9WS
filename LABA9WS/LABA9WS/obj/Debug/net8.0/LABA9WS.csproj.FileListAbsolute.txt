@@ -1,0 +1,14 @@
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\bin\Debug\net8.0\LABA9WS.exe
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\bin\Debug\net8.0\LABA9WS.deps.json
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\bin\Debug\net8.0\LABA9WS.runtimeconfig.json
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\bin\Debug\net8.0\LABA9WS.dll
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\bin\Debug\net8.0\LABA9WS.pdb
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\obj\Debug\net8.0\LABA9WS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\obj\Debug\net8.0\LABA9WS.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\obj\Debug\net8.0\LABA9WS.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\obj\Debug\net8.0\LABA9WS.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\obj\Debug\net8.0\LABA9WS.dll
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\obj\Debug\net8.0\refint\LABA9WS.dll
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\obj\Debug\net8.0\LABA9WS.pdb
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\obj\Debug\net8.0\LABA9WS.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\LABA9WS\LABA9WS\obj\Debug\net8.0\ref\LABA9WS.dll
